@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "426602893265",
+    "firebase_url": "https://timedata-fe79f-default-rtdb.firebaseio.com",
+    "project_id": "timedata-fe79f",
+    "storage_bucket": "timedata-fe79f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426602893265:android:224b8fbbd75074a1f0daf0",
+        "android_client_info": {
+          "package_name": "com.example.medtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426602893265-rua93fbb9tok7rte9ar3t59l5k1n8hq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9w3fbPwiVp_ZaaG8pXffdv6rltagk__c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426602893265-rua93fbb9tok7rte9ar3t59l5k1n8hq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426602893265:android:ab731d0fa01be853f0daf0",
+        "android_client_info": {
+          "package_name": "com.example.projectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426602893265-rua93fbb9tok7rte9ar3t59l5k1n8hq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9w3fbPwiVp_ZaaG8pXffdv6rltagk__c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426602893265-rua93fbb9tok7rte9ar3t59l5k1n8hq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
